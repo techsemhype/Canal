@@ -1,5 +1,5 @@
 - **Vídeo:** 🍌 Google dá um pau no GPT-5 com Banana
-- **URL:** (será publicado hoje à noite)
+- **URL:** https://youtu.be/3l9OB4_1Wq0
 
 ---
 
