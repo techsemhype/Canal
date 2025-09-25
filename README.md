@@ -1,8 +1,10 @@
+github-readme
+
 # **Canal @TECHsemHYPE⚡️**
 ![Vídeos](https://img.shields.io/badge/Vídeos-Semanais-red)
 ![Foco](https://img.shields.io/badge/Foco-IA%20Prática-blue)
 
-Repositório com os scripts, links e prompts usados nos vídeos do canal [@TECHsemHYPE⚡️ no YouTube](https://www.youtube.com/@TECHsemHYPE?sub_confirmation=1).
+Repositório com os scripts, links e prompts usados nos vídeos do canal [@TECHsemHYPE⚡️](https://www.youtube.com/@TECHsemHYPE?sub_confirmation=1) no YouTube.
 Todo o material aqui é para fins didáticos. Use por sua conta e risco.
 
 ## 🚀 Como Usar Este Repositório
