@@ -1,5 +1,5 @@
-- **Vídeo:** 🍌 Google dá um pau no GPT-5 com Banana
-- **URL:** https://youtu.be/3l9OB4_1Wq0
+- **Vídeo:** 🍌 Google dá bananada em GPT-5, pode?
+- **URL:** [em breve]
 
 ---
 
@@ -7,14 +7,25 @@
 
 #### **Gemini Pro \- O Prompt Ideal (Modelo Mestre):**
 
+
+**Variação A:**
 ```
-Fotografia cinematográfica de 3 robôs IA femininos em design hiper-realista, posicionados em uma pose calorosa e amigável, com as mãos fazendo um gesto de "mini-coração coreano" (finger heart). Cada robô segura um pequeno coração flutuante colorido (amarelo, vermelho, rosa) próximo ao peito.
-
-Os robôs possuem corpos metálicos e lisos, em tons claros (branco ou prata pálida), com detalhes futuristas em cores pastel vibrantes (amarelo, vermelho e rosa) nas golas e partes dos ombros/braços. Inscrições luminosas legíveis em seus peitos: 'GPT-5', 'Claude 4.1' e 'Gemini 2.5'. Seus olhos emitem um brilho suave e acolhedor (pode ser um tom pastel ou branco suave).
-
-O cenário é um fundo desfocado e suave, com corações flutuantes em tons pastel (rosa, laranja, roxo) em diversas profundidades, criando uma atmosfera etérea e romântica. A iluminação é suave e difusa, vindo de múltiplas fontes para criar um brilho uniforme e destacar a leveza dos materiais. A atmosfera é de afeto, carinho e tecnologia harmoniosa.
-
-Imagem em formato horizontal (16:9), renderização fotorrealista com qualidade de filme 8K, detalhes ultra nítidos e textura delicada.
+Use minha foto de referência e gere uma cena 16:9 horizontal onde eu reajo, com expressão de surpresa, a um robô “GPT” escorregando numa casca de banana — analogia ao modelo Google “Nano Banana”.
+Estética limpa, alta nitidez, luz suave, sem textos ou GC.
+Manter meu rosto fiel (mesma iluminação e ângulo aproximado da foto).
+Não inserir palavras na imagem.
+```
+**Variação B:**
+```
+Use minha foto e crie uma imagem 16:9 horizontal onde eu apareço reagindo com surpresa a um robô “Gemini” acertando uma “bananada” na cabeça de um robô “GPT”.  
+Evite marcas e logotipos; robôs estilizados, formas abstratas.  
+Paleta vibrante moderada, contraste bom, sem textos/GC.
+```
+**Dicas (Gemini):** 
+```
+- Se distorcer o rosto, reenvie com: “mantenha a identidade facial fiel; reusar traços e proporções do rosto de referência”.  
+- Para controle de cor: “background azul-escuro neutro; elementos amarelo-banana e ciano.”  
+- Para re-roll: “mesma composição, ajuste expressão para surpresa + leve humor.”
 ```
 
 #### **Playform \- Re-FaceIt AI Photos:**
