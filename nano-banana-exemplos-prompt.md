@@ -31,30 +31,45 @@ Paleta vibrante moderada, contraste bom, sem textos/GC.
 #### **Playform \- Re-FaceIt AI Photos:**
 
 ```
-Four characters in dating show scene: three female AI robots with generic robotic faces standing around one human man in the center. The human man has a real human face with genuine smile holding a red heart shape, positioned as if posing for photo with three girlfriends. The three AI robots have sleek metallic faces with glowing eyes, each holding heart-shaped lollipops, with clear text on their chests reading "GPT-5", "Claude 4.1", and "Gemini 2.5". Warm color palette with orange, red, pink, gold tones, cinematic lighting, dating show aesthetic, vibrant background with floating hearts, professional YouTube thumbnail composition, high contrast, eye-catching, 16:9 aspect ratio. The human man is clearly distinct from the robots \- real human skin, natural expressions, authentic smile, while the robots maintain their artificial metallic appearance.
+Create a 16:9 horizontal thumbnail image featuring a clean, high-contrast composition.  
+Place a surprised reaction of the subject (use the provided face) on the left third of the frame.  
+On the right, depict a stylized “Gemini-like” robot playfully hitting a “GPT-like” robot with a banana (no logos or trademarks; use abstract shapes and colors).  
+Lighting: soft key light on the subject’s face, gentle rim light; background slightly darker blue to make the subject pop.  
+Color accents: yellow (banana), cyan/teal (Gemini side), neutral gray/white for the GPT side.  
+No text or captions in the image. Keep the face identity consistent and natural.
 ```
 
 #### **Playform \- Negative Prompt Mais Específico:**
 
 ```
-vertical aspect ratio, portrait orientation, tall image, cropped sides, low contrast, worst quality, low quality, bad anatomy, vertical composition, portrait layout, narrow frame
+No text, no watermarks, no logos, no brand marks.  
+No distorted hands or faces, no extra limbs, no mutated features.  
+Avoid extreme saturation, heavy blur, or low-resolution artifacts.  
+Avoid frontal overexposure; keep skin tones natural and consistent with the reference.
+```
+
+**Parâmetros/boas práticas (Playform):**
+```
+- Face Strength: 0.6–0.8 (ajuste até manter identidade sem “mascaração”).  
+- Guidance/CFG: moderado (6–8) para obedecer composição.  
+- Seed: fixar após bom resultado para variações consistentes.  
+- Upload: usar **foto nítida** de rosto, luz frontal suave.
 ```
 
 #### **GPT-5 Valle 3 (Expansão de Imagem):**
 
 ```
-Pegue esta imagem e expanda-a para os lados até que se torne uma imagem horizontal na proporção 16:9. Mantenha exatamente o mesmo estilo, iluminação e personagens da imagem original. Não altere nada no centro, apenas adicione mais áreas nas laterais.
+Pegue esta imagem quadrada e expanda apenas as laterais até obter 16:9 horizontal.  
+Mantenha exatamente o mesmo estilo, iluminação, paleta e qualidade do centro.  
+Não altere o conteúdo central (rosto e ação).  
+Preencha as bordas com elementos coerentes do cenário (fundo, cores, luz).  
+Nada de textos ou marcas na imagem final.
 ```
 
-### **🎯 Prompt adaptado para Nano-Banana (em português):**
+#### ** Dicas (Outpainting):**
 
 ````
-Cena de programa de namoro em estilo capa do YouTube.  
-No centro está \[meu rosto realista gerado pela IA\], um homem humano sorrindo de forma natural, segurando um coração vermelho como se estivesse posando para uma foto.  
-Ao redor dele, três mulheres robôs futuristas com rostos metálicos lisos e olhos brilhantes, cada uma segurando um pirulito em formato de coração.  
-No peito de cada robô está escrito em letras claras e legíveis: “GPT-5”, “Claude 4.1” e “Gemini 2.5”.  
+- Se criar elementos estranhos nas bordas, peça: “harmonize com o fundo original; remover artefatos, manter blur e granulação equivalentes”.  
+- Para continuidade de luz: “replicar direção da luz do centro para as novas áreas laterais”.
 
-Cores quentes e vibrantes (laranja, vermelho, rosa, dourado), iluminação cinematográfica, estética de programa de namoro, fundo vibrante com corações flutuando.  
-Estilo profissional de thumbnail para YouTube, composição atraente, alto contraste, muito chamativa, formato horizontal (16:9).  
-O homem humano deve ter pele realista, expressão autêntica e sorriso genuíno, distinto das robôs. As robôs devem parecer artificiais, metálicas, mas elegantes.```
 ````
