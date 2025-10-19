@@ -28,8 +28,28 @@ Paleta vibrante moderada, contraste bom, sem textos/GC.
 - Para re-roll: “mesma composição, ajuste expressão para surpresa + leve humor.”
 ```
 
-#### **Playform \- Re-FaceIt AI Photos:**
+#### **Playform **
 
+1) 🎨 Easy Prompt to Image — Main Prompt (versão clara e assertiva):
+```
+A playful digital art scene showing a futuristic "GPT" robot slipping on a banana peel. 
+The scene should symbolize a light-hearted AI fail, inspired by Google’s "Nano Banana" idea. 
+Use a clean and modern style with high sharpness, soft lighting, and balanced colors. 
+The robot looks surprised, sliding slightly backward as the banana peel bends under it. 
+No text, no captions, no words. 
+Horizontal composition (16:9) with a simple background — light gray or gradient blue. 
+Do not include any logos or trademarks.
+```
+🧩 Negative Prompt:
+```
+No text, no watermarks, no brand logos. 
+No distorted hands, faces, or limbs. 
+Avoid over-saturation, heavy blur, or cartoon exaggeration. 
+Do not add additional objects or humans. 
+Keep lighting soft and consistent.
+```
+
+2) ✂️ Re-FaceIt AI Photos:
 ```
 Create a 16:9 horizontal thumbnail image featuring a clean, high-contrast composition.  
 Place a surprised reaction of the subject (use the provided face) on the left third of the frame.  
@@ -38,15 +58,20 @@ Lighting: soft key light on the subject’s face, gentle rim light; background s
 Color accents: yellow (banana), cyan/teal (Gemini side), neutral gray/white for the GPT side.  
 No text or captions in the image. Keep the face identity consistent and natural.
 ```
-
-#### **Playform \- Negative Prompt Mais Específico:**
-
+🧩 Negative Prompt:
 ```
 No text, no watermarks, no logos, no brand marks.  
 No distorted hands or faces, no extra limbs, no mutated features.  
 Avoid extreme saturation, heavy blur, or low-resolution artifacts.  
 Avoid frontal overexposure; keep skin tones natural and consistent with the reference.
 ```
+
+#### **Playform \- Negative Prompt Mais Específico:**
+
+
+
+
+
 
 **Parâmetros/boas práticas (Playform):**
 ```
