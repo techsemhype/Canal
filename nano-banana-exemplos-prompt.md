@@ -66,13 +66,6 @@ Avoid extreme saturation, heavy blur, or low-resolution artifacts.
 Avoid frontal overexposure; keep skin tones natural and consistent with the reference.
 ```
 
-#### **Playform \- Negative Prompt Mais Específico:**
-
-
-
-
-
-
 **Parâmetros/boas práticas (Playform):**
 ```
 - Face Strength: 0.6–0.8 (ajuste até manter identidade sem “mascaração”).  
