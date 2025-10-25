@@ -21,7 +21,7 @@ Todo o material aqui é para fins didáticos. Use por sua conta e risco.
 - [**Exemplos de Prompts**]
   - **Vídeo:** 🍌 Google dá bananada em GPT-5, pode?<br>
     L https://github.com/TECHsemHYPE/Canal/blob/main/nano-banana-exemplos-prompt.md
-  -**Vídeo:** ⚛️ A Corrida Quântica Começou! Google vs Microsoft vs IBM<br>
+  - **Vídeo:** ⚛️ A Corrida Quântica Começou! Google vs Microsoft vs IBM<br>
     L https://github.com/techsemhype/Canal/blob/main/nano-banana-face-clone-prompt-thumbnail-youtube.md.md
 
 ### **🤖 Automações**
