@@ -1,8 +1,6 @@
 # **TECH sem HYPE ⚡**
 
-![Vídeos](https://img.shields.io/badge/Vídeos-Semanais-red)
-![Foco](https://img.shields.io/badge/Foco-IA%20Prática-blue)
-![GitHub](https://img.shields.io/badge/Código-Aberto-green)
+![Vídeos](https://img.shields.io/badge/Vídeos-Semanais-red)![Foco](https://img.shields.io/badge/Foco-IA%20Prática-blue)![GitHub](https://img.shields.io/badge/Código-Aberto-green)
 
 > Repositório oficial do canal [@TECHsemHYPE](https://www.youtube.com/@TECHsemHYPE?sub_confirmation=1)  
 > Scripts, prompts e automações usados nos vídeos — código aberto, sempre.
