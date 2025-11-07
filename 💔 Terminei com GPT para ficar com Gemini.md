@@ -32,10 +32,10 @@ e entrega mais *reflexão* do que *ação*?"
 
 ```
 ┌─────────────────────────────────────────────┐
-│ 💬 ChatGPT - Conversas Profissionais       │
+│  💬 ChatGPT - Conversas Profissionais       │
 ├─────────────────────────────────────────────┤
-│ User: "GPT, me ajuda nessa conversa numa   │
-│       conversa do WhatsApp apurando os      │
+│ User: "GPT, me ajuda nessa conversa         │
+│       do WhatsApp apurando os               │
 │       dados para não me deixar errar e      │
 │       sendo o mais conciso possível?"       │
 │                                             │
