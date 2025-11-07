@@ -136,7 +136,7 @@ Primeiro código: rodou. Segundo: também. Terceiro: limpo, sem bug."
 │       vivo, preciso que você revise e       │
 │       documente para eu publicar esse       │
 │       script no Github para a comunidade:   │
-│       [ig-to-txt.sh]"                       │
+│       [ig-to-txt.py]"                       │
 │                                             │
 │ Gemini: [Documentação completa gerada]      │
 │                                             │
@@ -152,12 +152,12 @@ Primeiro código: rodou. Segundo: também. Terceiro: limpo, sem bug."
 ┌─────────────────────────────────────────────┐
 │ 📦 Scripts Demonstrados                     │
 ├─────────────────────────────────────────────┤
-│ • ig-to-txt.sh                              │
+│ • ig-to-txt.py                              │
 │   → Conversor de Reels em texto            │
 │   → Extrai conteúdo para IAs processarem   │
 │   → Usa: brainstorming, redação, GCs       │
 │                                             │
-│ • yt-to-txt.sh                              │
+│ • yt-to-txt.py                              │
 │   → Conversor de YouTube em texto          │
 │   → Extrai narrativas para análise         │
 │   → Usa: headlines, expressões, resumos    │
@@ -316,8 +316,8 @@ Com qual IA você ficaria?"
 ┌─────────────────────────────────────────────┐
 │   📦 Scripts usados                         │
 │                                             │
-│   ig-to-txt.sh  →  Reels em texto          │
-│   yt-to-txt.sh  →  YouTube em texto        │
+│   ig-to-txt.py  →  Reels em texto          │
+│   yt-to-txt.py  →  YouTube em texto        │
 │                                             │
 │   Use para: brainstorming, redação,         │
 │   headlines, GCs e expressões               │
