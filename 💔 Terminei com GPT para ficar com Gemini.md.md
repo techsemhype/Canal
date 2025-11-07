@@ -296,33 +296,28 @@ Com qual IA você ficaria?"
 
 **Tela Final - GitHub:**
 
-```
 ┌─────────────────────────────────────────────┐
-│   📦 Quer os prompts e scripts usados?      │
+│   📦 Scripts usados neste vídeo             │
 │                                             │
+│   ig-to-txt.sh                              │
+│   👉 Conversor de Reels em texto            │
+│      • Extrai conteúdo para IAs processarem │
+│      • Use para: brainstorming, redação,    │
+│        headlines, GCs e expressões          │
+│                                             │
+│   yt-to-txt.sh                              │
+│   👉 Conversor de YouTube em texto          │
+│      • Extrai narrativas para análise       │
+│      • Use para: brainstorming, redação,    │
+│        headlines, GCs e expressões          │
+│                                             │
+├─────────────────────────────────────────────┤
 │           [QR CODE GITHUB]                  │
 │                                             │
 │     github.com/TECHsemHYPE/Canal            │
-│     └─ 004_terminei-com-gpt/                │
-│                                             │
-│   📁 Neste repositório você encontra:       │
-│   ├─ prompts/                               │
-│   │   ├─ chatgpt-whatsapp.md               │
-│   │   ├─ chatgpt-contratos.md              │
-│   │   ├─ gemini-documentacao.md            │
-│   │   └─ comparativo-uso.md                │
-│   │                                         │
-│   ├─ scripts/                               │
-│   │   ├─ ig-to-txt.sh                       │
-│   │   ├─ yt-to-txt.sh                       │
-│   │   └─ setup-venv.sh                      │
-│   │                                         │
-│   └─ images/                                │
-│       ├─ gpt-persona.png                    │
-│       └─ gemini-persona.png                 │
+│     └─ 004_terminei-com-gpt/scripts/        │
 │                                             │
 │   👆 Código aberto, sempre.                 │
 │      TECH sem HYPE ⚡                       │
 └─────────────────────────────────────────────┘
-```
 
