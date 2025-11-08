@@ -18,20 +18,20 @@
 ---
 
 ### ⚛️ A Corrida Quântica Começou! Google vs Microsoft vs IBM
-**Publicado:** [Data]  
+**Publicado:** 02/11/2025  
 **Conteúdo:** Análise técnica + Prompts de pesquisa
 
-📄 [Ver documentação](#)  
-🎥 [Assistir no YouTube](#)
+📄 [Ver documentação](https://github.com/techsemhype/Canal/blob/main/nano-banana-face-clone-prompt-thumbnail-youtube.md)  
+🎥 [Assistir no YouTube](https://youtu.be/M0bTYAsQKPQ)
 
 ---
 
 ### 🍌 Google dá bananada em GPT-5, pode?
-**Publicado:** [Data]  
+**Publicado:** 26/10/2025 
 **Conteúdo:** Nano Banana + Face Clone + Prompts de imagem
 
 📄 [Exemplos de prompts](https://github.com/TECHsemHYPE/Canal/blob/main/nano-banana-exemplos-prompt.md)  
-🎥 [Assistir no YouTube](#)
+🎥 [Assistir no YouTube](https://youtu.be/rCR9qu8QXTk)
 
 ---
 
