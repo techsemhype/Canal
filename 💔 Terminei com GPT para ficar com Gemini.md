@@ -330,5 +330,73 @@ Com qual IA você ficaria?"
 │   TECH sem HYPE ⚡                          │
 └─────────────────────────────────────────────┘
 ```
+## 🛠️ Scripts Usados no Vídeo
 
+### 📱 ig-to-txt.py
+Converte Reels do Instagram em texto para processamento com IA.
+
+**Download:** [ig-to-txt.py](https://github.com/techsemhype/Canal/blob/main/ig-to-txt.py)
+
+**Para que serve:**
+- Extrai áudio e narrativa de Reels
+- Converte em texto editável
+- Use para: brainstorming, redação, headlines, GCs e expressões
+
+---
+
+### 🎥 yt-to-txt.py
+Converte vídeos do YouTube em texto para processamento com IA.
+
+**Download:** [yt-to-txt.py](https://github.com/techsemhype/Canal/blob/main/yt-to-txt.py)
+
+**Para que serve:**
+- Extrai transcrição de vídeos
+- Converte em texto editável
+- Use para: análise de conteúdo, resumos, roteiros
+
+---
+
+### 🚀 Como Usar
+```bash
+# Clone o repositório
+git clone https://github.com/techsemhype/Canal.git
+cd Canal
+
+# Instale dependências
+pip install -r requirements.txt
+
+# Execute
+python ig-to-txt.py [URL_DO_REEL]
+python yt-to-txt.py [URL_DO_VIDEO]
+```
+
+---
+
+### 🎨 Prompt da Thumbnail
+
+**Usado para criar a capa do vídeo "💔 Terminei com GPT para ficar com Gemini":**
+```
+Essa é minha foto. Crie uma imagem horizontal (16:9) em estilo realista 
+e cinematográfico para capa de vídeo do YouTube.
+
+Estou no centro segurando um coração inflável vermelho, como se estivesse 
+entre duas IAs personificadas:
+
+- À esquerda: robô inspirado no ChatGPT — aparência metálica prateada, 
+  expressão feminina confiante, tons frios e azulados.
+
+- À direita: robô inspirado no Gemini — design moderno branco e dourado, 
+  expressão suave e curiosa, energia leve.
+
+Fundo com cores quentes (magenta, alaranjado, rosado), luz suave e 
+contraste equilibrado.
+
+Sem textos, sem GC, apenas a composição visual.
+```
+
+**Ferramenta usada:** Gemini Nano Banana 🍌
+
+---
+
+**TECH sem HYPE ⚡ — Código aberto, sempre.**
 
