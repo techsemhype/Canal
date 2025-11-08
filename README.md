@@ -13,7 +13,7 @@
 **Conteúdo:** Prompts comparativos + Scripts de conversão (Reels/YouTube → texto)
 
 📄 [Ver documentação](https://github.com/techsemhype/Canal/blob/main/%F0%9F%92%94%20Terminei%20com%20GPT%20para%20ficar%20com%20Gemini.md)  
-🎥 [Assistir no YouTube](https://youtu.be/phniz7U6TX4)
+🎥 [Assistir no YouTube](https://youtu.be/fklbaIXxn_I)
 
 ---
 
