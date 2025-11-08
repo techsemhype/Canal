@@ -21,7 +21,7 @@
 **Publicado:** 02/11/2025  
 **Conteúdo:** Análise técnica + Prompts de pesquisa
 
-📄 [Ver documentação](https://github.com/techsemhype/Canal/blob/main/nano-banana-face-clone-prompt-thumbnail-youtube.md)  
+📄 [Ver documentação](![](https://github.com/techsemhype/Canal/blob/main/%E2%9A%9B%EF%B8%8F%20A%20Corrida%20Qu%C3%A2ntica%20Come%C3%A7ou!.md))  
 🎥 [Assistir no YouTube](https://youtu.be/M0bTYAsQKPQ)
 
 ---
@@ -30,7 +30,7 @@
 **Publicado:** 26/10/2025 
 **Conteúdo:** Nano Banana + Face Clone + Prompts de imagem
 
-📄 [Exemplos de prompts](https://github.com/TECHsemHYPE/Canal/blob/main/nano-banana-exemplos-prompt.md)  
+📄 [Exemplos de prompts](![](https://github.com/techsemhype/Canal/blob/main/%F0%9F%8D%8C%20Google%20d%C3%A1%20bananada%20em%20GPT%205.md))  
 🎥 [Assistir no YouTube](https://youtu.be/rCR9qu8QXTk)
 
 ---
