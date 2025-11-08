@@ -2,7 +2,7 @@
 
 > **Vídeo publicado:** 09/11/2025  
 > **Canal:** TECH sem HYPE ⚡  
-> **Duração:** ~3min30s  
+> **Duração:** ~3min44s  
 > **Objetivo:** Demonstrar diferenças práticas entre ChatGPT e Gemini através de prompts reais
 
 ***
