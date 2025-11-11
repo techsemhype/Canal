@@ -151,6 +151,6 @@ Sem textos ou GCs — apenas a composição visual.
 | **GC Final** | TECH sem HYPE ⚡️ |
 | **Comentários fixados** | Tabela comparativa de planos (GPT Plus / Gemini AI / Claude Pro) |
 | **Câmera** | Sony ZV-E10 II + Viltrox 9 mm |
-| **Render** | Final Cut Pro / Workflow QuickTime |
+| **Render** | LumaFusion Mac Air M4 / Workflow QuickTime |
 | **Iluminação** | Key warm + fill neutra (contraste suave) |
 
