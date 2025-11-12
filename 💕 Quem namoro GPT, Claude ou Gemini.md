@@ -20,7 +20,7 @@ A seguir, os três prompts exatos usados em cada modelo.
 
 ***
 
-### 🟣 GPT-5 — _A Criativa_
+### 👩‍🎤 GPT-5 — _A Criativa_
 
 ```
 Você está participando de um vídeo do YouTube chamado 
@@ -48,7 +48,7 @@ Estilo: intimista, inspirado, com estética de carta escrita à mão.
 
 ***
 
-### 🟢 Gemini 2.5 Pro — _A Eficiente_
+### 👩‍🏫 Gemini 2.5 Pro — _A Eficiente_
 
 ```
 Você está num desafio de YouTube: "Quem namoro? GPT, Claude ou Gemini".
@@ -75,7 +75,7 @@ Estilo: prático, minimalista, com luz branca e detalhes dourados.
 
 ***
 
-### 🔵 Claude Sonnet 4.5 — _A Estrategista_
+### 🦸‍♀️ Claude Sonnet 4.5 — _A Estrategista_
 
 ```
 Você está participando do desafio "Quem namoro? GPT, Claude ou Gemini".
@@ -96,7 +96,7 @@ Tom: elegante, técnico e poético — estilo manifesto digital.
 > _(Claude entrega HTML/CSS funcional e explica o gesto como símbolo de parceria)_
 
 ***
-### 🔵 Claude Opus 4.1 — _FIX Cirurgico_
+### 👑 Claude Opus 4.1 — _FIX Cirurgico_
 
 ```
 Olá Claude Opus, o rei 🤴 das IAs em coding. Tudo bem?
@@ -109,7 +109,7 @@ Posso te enviar o prompt do Sonnet 4.5 + o instapy.py e te pedir que seja muito 
 ```
 
 
-## 🤖 NANO BANANA — PERSONA CLAUDE
+## 🍌 NANO BANANA — PERSONA CLAUDE
 
 ```
 Gere uma imagem realista e cinematográfica da personagem CLAUDE, 
@@ -128,7 +128,7 @@ Composição centrada, sem texto.
 
 ***
 
-## 🖼️ CAPA DO VÍDEO — _Nano Banana + Face Clone (Dani)_
+## 🎞️ CAPA DO VÍDEO — _Nano Banana + Face Clone (Dani)_
 
 ```
 Crie uma imagem horizontal 16:9, realista e cinematográfica, 
