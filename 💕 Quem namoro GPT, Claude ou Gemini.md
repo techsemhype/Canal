@@ -3,7 +3,6 @@
 
 # 💞 Quem namoro? GPT, Claude ou Gemini
 
-📂 **/Canal/**  
 📅 2025-11-16  
 🎥 **Uso:** gravação + documentação GitHub
 
