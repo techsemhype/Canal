@@ -96,6 +96,18 @@ Tom: elegante, técnico e poético — estilo manifesto digital.
 > _(Claude entrega HTML/CSS funcional e explica o gesto como símbolo de parceria)_
 
 ***
+### 🔵 Claude Opus 4.1 — _FIX Cirurgico_
+
+```
+Olá Claude Opus, o rei 🤴 das IAs em coding. Tudo bem?
+
+Só para pegar contexto, preciso de uma implementação num script chamado Instapy.py onde demorei 1 ano para desenvolver com Gemini 2.5 Pro, ele é o pai. Porém Claude Sonnet 4.1 aperfeiçoou. Tive a ideia de divulgar meus últimos vídeos via Story com ele. A questão é que esse ponto do script está para os fortes, infelizmente estou impactando com GPT-5, Sonnet 4.5 ou Gemini 2.5 Pro e essas são praticamente a elite das IAs.
+
+Também aproveito essa oportunidade para gerar vídeo no meu canal do YouTube, sorria, você está sendo filmado! 🎥😁
+
+Posso te enviar o prompt do Sonnet 4.5 + o instapy.py e te pedir que seja muito assertivo e direto ao ponto na solução? Não invente manuais, procedimentos ou documentações. Preciso sair daqui hoje com essa solução - combinado? 🤝
+```
+
 
 ## 🤖 NANO BANANA — PERSONA CLAUDE
 
