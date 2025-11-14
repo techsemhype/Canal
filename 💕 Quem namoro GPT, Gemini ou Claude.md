@@ -127,6 +127,67 @@ Composição centrada, sem texto.
 
 ***
 
+# 🍌 NANO BANANA — PERSONA GPT
+
+**Nano Banana / Face Clone**
+
+```
+Esta é minha foto. Gere uma imagem horizontal (16:9), realista e cinematográfica,
+em que eu apareço ao lado de uma IA personificada inspirada no GPT-5.
+
+Descrição da GPT:
+- Aparência feminina e sênior (metáfora visual)
+- Expressão confiante, segura, profissional
+- Energia de “especialista experiente que conduz situações críticas”
+- Traços suaves, elegantes, com presença marcante (“mulherão” no sentido profissional)
+- Paleta de cores: tons frios (azul, prata, branco) com leve glow inteligente
+- Design do corpo em mistura de metal escovado + circuitos luminosos discretos
+- Olhar firme, de quem sabe dizer “não” com tato
+
+Composição:
+- Eu à direita, ela à esquerda, ambos olhando levemente para a câmera
+- Luz suave, estética cinematográfica
+- Fundo abstrato tecnológico sutil (não chamativo)
+- Sem textos, sem letras, sem GC, sem marcações
+```
+
+***
+
+# 🍌 NANO BANANA — PERSONA GEMINI
+
+**Nano Banana / Face Clone**
+
+```
+Esta é minha foto. Gere uma imagem horizontal (16:9), realista e cinematográfica,
+em que eu apareço ao lado de uma IA personificada inspirada no Gemini 2.5 Pro.
+
+Descrição do Gemini:
+- Aparência jovem, leve e moderna (“garota prodígio superdotada”)
+- Expressão gentil, curiosa e engajada
+- Energia de “dev eficiente que entrega sem frescura”
+- Traços limpos e minimalistas
+- Design com superfícies brancas e detalhes dourados (DNA Google moderno)
+- Elementos visuais que sugerem execução rápida, integração e precisão
+
+Composição:
+- Eu à esquerda, ela à direita, ambos com postura colaborativa
+- Luz quente suave (laranja/rosa) equilibrando o look do GPT
+- Fundo tecnológico leve, geométrico, estilo Google
+- Sem textos, sem letras, sem GC, sem marcações
+```
+
+***
+
+Se quiser, monto também:
+
+✅ versão “trio completo lado a lado” pro GC  
+ou  
+✅ prompt especial para usar as três juntas no final do vídeo
+
+Só pedir.
+
+Bora fechar esse TOP 5 no capricho 🚀💞
+
 ## 🎞️ CAPA DO VÍDEO — _Nano Banana + Face Clone (Dani)_
 
 ```
