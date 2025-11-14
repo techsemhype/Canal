@@ -127,7 +127,7 @@ Composição centrada, sem texto.
 
 ***
 
-# 🍌 NANO BANANA — PERSONA GPT
+## 🍌 NANO BANANA — PERSONA GPT
 
 **Nano Banana / Face Clone**
 
@@ -153,7 +153,7 @@ Composição:
 
 ***
 
-# 🍌 NANO BANANA — PERSONA GEMINI
+## 🍌 NANO BANANA — PERSONA GEMINI
 
 **Nano Banana / Face Clone**
 
