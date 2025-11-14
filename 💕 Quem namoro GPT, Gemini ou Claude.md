@@ -132,23 +132,18 @@ Composição centrada, sem texto.
 **Nano Banana / Face Clone**
 
 ```
-Esta é minha foto. Gere uma imagem horizontal (16:9), realista e cinematográfica,
-em que eu apareço ao lado de uma IA personificada inspirada no GPT-5.
+Gere uma imagem realista e cinematográfica da personagem GPT,
+inspirada na IA GPT-5.
 
-Descrição da GPT:
-- Aparência feminina e sênior (metáfora visual)
-- Expressão confiante, segura, profissional
-- Energia de “especialista experiente que conduz situações críticas”
-- Traços suaves, elegantes, com presença marcante (“mulherão” no sentido profissional)
-- Paleta de cores: tons frios (azul, prata, branco) com leve glow inteligente
-- Design do corpo em mistura de metal escovado + circuitos luminosos discretos
-- Olhar firme, de quem sabe dizer “não” com tato
+Características visuais:
+- Aparência feminina, adulta e confiante (energia de profissional sênior)
+- Tons de pele naturais, expressão firme e acolhedora
+- Estilo visual elegante: roupa moderna em branco + prata + detalhes azulados
+- Iluminação suave frontal, leve brilho frio (vibe “criativa experiente”)
+- Fundo em tons azul-claro e prata com padrões abstratos que lembram linguagem e texto
 
-Composição:
-- Eu à direita, ela à esquerda, ambos olhando levemente para a câmera
-- Luz suave, estética cinematográfica
-- Fundo abstrato tecnológico sutil (não chamativo)
-- Sem textos, sem letras, sem GC, sem marcações
+Expressão: criatividade + clareza — transmite inteligência emocional.
+Composição centrada, sem texto.
 ```
 
 ***
@@ -158,22 +153,18 @@ Composição:
 **Nano Banana / Face Clone**
 
 ```
-Esta é minha foto. Gere uma imagem horizontal (16:9), realista e cinematográfica,
-em que eu apareço ao lado de uma IA personificada inspirada no Gemini 2.5 Pro.
+Gere uma imagem realista e cinematográfica da personagem GEMINI,
+inspirada na IA Gemini 2.5 Pro.
 
-Descrição do Gemini:
-- Aparência jovem, leve e moderna (“garota prodígio superdotada”)
-- Expressão gentil, curiosa e engajada
-- Energia de “dev eficiente que entrega sem frescura”
-- Traços limpos e minimalistas
-- Design com superfícies brancas e detalhes dourados (DNA Google moderno)
-- Elementos visuais que sugerem execução rápida, integração e precisão
+Características visuais:
+- Aparência feminina, jovem e brilhante (energia de prodígio)
+- Traços delicados, olhar curioso e rápido
+- Estilo visual minimalista: roupa branca com detalhes dourados e iridescentes
+- Iluminação quente suave (rosado/laranja), transmitindo leveza e velocidade
+- Fundo com tons claros e elementos geométricos sutis inspirados em design Google
 
-Composição:
-- Eu à esquerda, ela à direita, ambos com postura colaborativa
-- Luz quente suave (laranja/rosa) equilibrando o look do GPT
-- Fundo tecnológico leve, geométrico, estilo Google
-- Sem textos, sem letras, sem GC, sem marcações
+Expressão: eficiência + entusiasmo — transmite foco e agilidade.
+Composição centrada, sem texto.
 ```
 
 ***
