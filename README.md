@@ -38,7 +38,7 @@
 **Publicado:** 26/10/2025 
 **Conteúdo:** Nano Banana + Face Clone + Prompts de imagem
 
-📄 [Exemplos de prompts](![](https://github.com/techsemhype/Canal/blob/main/%F0%9F%8D%8C%20Nano%20Banana%20Google%20acertou%20nas%20imagens.md))  
+📄 [Exemplos de prompts](https://github.com/techsemhype/Canal/blob/main/%F0%9F%8D%8C%20Nano%20Banana%20Google%20acertou%20nas%20imagens.md)  
 🎥 [Assistir no YouTube](https://youtu.be/rCR9qu8QXTk)
 
 ---
