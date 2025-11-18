@@ -1,7 +1,7 @@
 
 ***
 
-# 💞 Quem namoro? GPT, Claude ou Gemini
+# 💞 GPT, Gemini e Claude: o trio do meu workflow
 
 📅 2025-11-16  
 🎥 **Uso:** gravação + documentação GitHub
