@@ -27,7 +27,7 @@ Paleta vibrante moderada, contraste bom, sem textos/GC.
 - Para controle de cor: “background azul-escuro neutro; elementos amarelo-banana e ciano.”  
 - Para re-roll: “mesma composição, ajuste expressão para surpresa + leve humor.”
 ```
-**Capa Final Gemini Banana:**
+**Capa Final Gemini 2.5 Pro com Nano Banana:**
 ```
 Use o Face Clone no rosto enviado.
 
