@@ -12,7 +12,7 @@
 **Publicado:** 16/11/2025  
 **Conteúdo:** Prompts comparativos + Scripts de conversão (Reels/YouTube → texto)
 
-📄 [Ver documentação](https://github.com/techsemhype/Canal/blob/main/%F0%9F%92%9E%20GPT%2C%20Gemini%20e%20Claude%20o%20trio%20do%20meu%20workflow.md))  
+📄 [Ver documentação](https://github.com/techsemhype/Canal/blob/main/%F0%9F%92%9E%20GPT%2C%20Gemini%20e%20Claude%20o%20trio%20do%20meu%20workflow.md)  
 🎥 [Assistir no YouTube](https://youtu.be/sWoymqpzx1A)
 
 ---
