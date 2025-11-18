@@ -1,5 +1,5 @@
-- **Vídeo:** 🍌 Google dá bananada em GPT-5, pode?
-- **URL:** [em breve]
+- **Vídeo:** 🍌 Nano Banana: Google acertou nas imagens
+- **URL:** https://youtu.be/rCR9qu8QXTk
 
 ---
 
