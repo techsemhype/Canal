@@ -27,6 +27,36 @@ Paleta vibrante moderada, contraste bom, sem textos/GC.
 - Para controle de cor: “background azul-escuro neutro; elementos amarelo-banana e ciano.”  
 - Para re-roll: “mesma composição, ajuste expressão para surpresa + leve humor.”
 ```
+**Capa Final Gemini Banana:**
+```
+Use o Face Clone no rosto enviado.
+
+Crie uma imagem horizontal 16:9, estilo realista e cinematográfico, 
+com paleta quente (magenta, laranja, rosa vibrante).
+
+CENA:
+Estou à esquerda da composição, reagindo impressionado 
+(expressão de “Uau!”, leve inclinação do corpo para trás).
+
+Ao centro, coloque uma BANANA estilizada como artista — 
+com pincel na “mão”, avental de pintura, e respingos de tinta.  
+Ela está pintando um QUADRO.
+
+Dentro do quadro: um ROBÔ que representa IA moderna, 
+estilo clean futurista (branco, dourado, prata), 
+bem iluminado e com personalidade sutil.
+
+ATMOSFERA:
+Luzes quentes, contraste suave, fundo desfocado estúdio/atelier.
+Composição dinâmica, divertida e sofisticada.
+
+IMPORTANTE:
+- Estilo realista (não cartoon)
+- Não escrever textos na imagem
+- Não exagerar na banana antropomórfica — manter elegante/divertida
+- Eu preciso estar claramente reconhecível via face-clone
+```
+
 
 #### **Playform **
 
