@@ -8,6 +8,14 @@
 
 ## 📺 Vídeos + Código
 
+### 💞 GPT, Gemini e Claude: o trio do meu workflow
+**Publicado:** 16/11/2025  
+**Conteúdo:** Prompts comparativos + Scripts de conversão (Reels/YouTube → texto)
+
+📄 [Ver documentação](![](https://github.com/techsemhype/Canal/blob/main/%F0%9F%92%9E%20GPT%2C%20Gemini%20e%20Claude%20o%20trio%20do%20meu%20workflow.md))  
+🎥 [Assistir no YouTube](https://youtu.be/sWoymqpzx1A)
+
+---
 ### 💔 Terminei com GPT para ficar com Gemini
 **Publicado:** 09/11/2025  
 **Conteúdo:** Prompts comparativos + Scripts de conversão (Reels/YouTube → texto)
@@ -26,11 +34,11 @@
 
 ---
 
-### 🍌 Google dá bananada em GPT-5, pode?
+### 🍌 Nano Banana: Google acertou nas imagens
 **Publicado:** 26/10/2025 
 **Conteúdo:** Nano Banana + Face Clone + Prompts de imagem
 
-📄 [Exemplos de prompts](https://github.com/techsemhype/Canal/blob/main/%F0%9F%8D%8C%20Google%20d%C3%A1%20bananada%20em%20GPT%205.md)  
+📄 [Exemplos de prompts](![](https://github.com/techsemhype/Canal/blob/main/%F0%9F%8D%8C%20Nano%20Banana%20Google%20acertou%20nas%20imagens.md))  
 🎥 [Assistir no YouTube](https://youtu.be/rCR9qu8QXTk)
 
 ---
