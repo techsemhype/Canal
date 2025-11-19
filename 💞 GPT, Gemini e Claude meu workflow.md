@@ -1,7 +1,7 @@
 
 ***
 
-# 💞 GPT, Gemini e Claude: o trio do meu workflow
+# 💞 GPT, Gemini e Claude: meu workflow
 
 📅 2025-11-16  
 🎥 **Uso:** gravação + documentação GitHub
