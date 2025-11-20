@@ -27,34 +27,88 @@ Paleta vibrante moderada, contraste bom, sem textos/GC.
 - Para controle de cor: “background azul-escuro neutro; elementos amarelo-banana e ciano.”  
 - Para re-roll: “mesma composição, ajuste expressão para surpresa + leve humor.”
 ```
-**Capa Final Gemini 2.5 Pro com Nano Banana:**
+**Capa Final Gemini 3 Pro com Nano Banana:**
 ```
+### **Sumário**
+
+-   Paleta dominante: **amarelo-dourado**, **laranja quente**, **âmbar**, **marrom suave**, **bege**, leves toques de **cinza metálico**.   
+-   Zero presença de magenta/rosa — é _quente dourado_, não _quente rosado_.
+-   Atmosfera puxada para **Golden Hour cinematográfica**.
+-   A nova geração ficou rosa porque o prompt pediu **magenta/rosa vibrante**.
+-   Abaixo deixo o **prompt corrigido** para manter fiel à capa anexada.
+
+***
+
+## **Paleta real da imagem**
+
+Use estes tons como referência:
+
+### **Cores Principais**
+
+-   **#F3C45A** — amarelo-banana / luz quente
+-   **#E89A3D** — laranja dourado
+-   **#D08231** — laranja queimado
+-   **#B56A28** — caramelo quente
+-   **#F7E3B8** — luz difusa creme/âmbar
+    
+### **Cores de Profundidade**
+
+-   **#6A4B2E** — marrom suave do ambiente
+-   **#3C2C1F** — sombras quentes
+-   **#C8B39A** — fundo desfocado de estúdio
+-   **#8A7963** — detalhes neutros
+
+### **Acentos Tecnológicos (robô)**
+
+-   **#D9D9D9** — prata fosco
+-   **#FFFFFF** — branco puro
+-   **#C5A452** — dourado metálico
+
+**Resumo da paleta:**
+
+> **Cálida, dourada, laranja-âmbar, com zero rosa.**  
+> Visual de **iluminação de pôr-do-sol cinematográfica**.
+
+***
+
+## **Prompt revisado (fiel à capa original, sem rosa/magenta)**
+
+Use este no **Nano Banana**:
+
+***
+
+### **🎨 Prompt – Versão Ajustada (paleta fiel ao anexo)**
+
 Use o Face Clone no rosto enviado.
 
-Crie uma imagem horizontal 16:9, estilo realista e cinematográfico, 
-com paleta quente (magenta, laranja, rosa vibrante).
+Crie uma imagem horizontal 16:9 em estilo **realista e cinematográfico**,  
+com **paleta quente dourada** (amarelo, laranja, âmbar, caramelo).  
+_Evitar magenta/rosa. Zero tonalidade rosada._
 
-CENA:
-Estou à esquerda da composição, reagindo impressionado 
+**CENA:**  
+Estou à esquerda da composição, reagindo impressionado  
 (expressão de “Uau!”, leve inclinação do corpo para trás).
 
-Ao centro, coloque uma BANANA estilizada como artista — 
-com pincel na “mão”, avental de pintura, e respingos de tinta.  
-Ela está pintando um QUADRO.
+Ao centro, coloque uma **BANANA artista**, com elegância:  
+um pincel segurado de forma sutil, um pequeno avental de pintura  
+e respingos leves de tinta — nada exagerado ou cartoon.
 
-Dentro do quadro: um ROBÔ que representa IA moderna, 
-estilo clean futurista (branco, dourado, prata), 
-bem iluminado e com personalidade sutil.
+Ela está pintando um **QUADRO**.
 
-ATMOSFERA:
-Luzes quentes, contraste suave, fundo desfocado estúdio/atelier.
+Dentro do quadro: um **robô futurista clean**  
+(branco, prata e dourado), bem iluminado, com personalidade sutil.
+
+**ATMOSFERA:**  
+Luzes **quentes douradas**, estilo “Golden Hour”,  
+contraste suave, fundo desfocado de estúdio/atelier.  
 Composição dinâmica, divertida e sofisticada.
 
-IMPORTANTE:
-- Estilo realista (não cartoon)
-- Não escrever textos na imagem
-- Não exagerar na banana antropomórfica — manter elegante/divertida
-- Eu preciso estar claramente reconhecível via face-clone
+**IMPORTANTE:**
+
+-   Estilo realista (não cartoon)
+-   Não escrever textos na imagem
+-   Banana apenas levemente antropomórfica
+-   Eu preciso estar claramente reconhecível via face-clone
 ```
 
 
