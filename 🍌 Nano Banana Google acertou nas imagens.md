@@ -110,8 +110,10 @@ Composição dinâmica, divertida e sofisticada.
 -   Banana apenas levemente antropomórfica
 -   Eu preciso estar claramente reconhecível via face-clone
 ```
-**Tratamento Final com GPT5-5.1 + DALL-E 3**
-Você pode pegar o resultado final de imagem do Nano Banana e anexar no GPT para dar um brilho a mais com esse prompt abaixo.
+## 🎬 Tratamento Final com GPT-5.1 + DALL·E 3
+
+Após gerar sua capa no Nano Banana, faça um pós-processamento cinematográfico com o GPT-5.1.
+Basta anexar a imagem final e usar o prompt abaixo para ganhar mais contraste, profundidade e leitura visual de thumbnail, sem alterar a composição original.
 
 ```
 # ✅ **Prompt Final de Tratamento (PUNCH de Thumbnail)**
@@ -176,7 +178,7 @@ Se quiser mais _“gritância de thumbnail”_, adicione esta linha:
 > “Aumentar levemente o rimlight no rosto e reforçar brilho quente vindo da janela para criar maior recorte cinematográfico.”
 ```
 
-#### **Playform **
+## Playform 
 
 1) 🎨 Easy Prompt to Image — Main Prompt (versão clara e assertiva):
 ```
