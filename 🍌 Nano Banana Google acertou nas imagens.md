@@ -110,7 +110,69 @@ Composição dinâmica, divertida e sofisticada.
 -   Banana apenas levemente antropomórfica
 -   Eu preciso estar claramente reconhecível via face-clone
 ```
+**Tratamento Final com GPT-5.1 e Dalle 3**
+```
+# ✅ **Prompt Final de Tratamento (PUNCH de Thumbnail)**
 
+Use exatamente assim:
+
+***
+
+### **🎬 Pós-Processamento Cinematográfico (não alterar a cena)**
+
+Reprocessar **sem mudar composição, poses, objetos ou expressão facial**.  
+Ajustar apenas **tratamento de cor, contraste e iluminação**, mantendo o estilo realista e cinematográfico.
+
+Aplicar:
+-   **Contraste global + microcontraste** para maior definição
+-   **Realce suave nos highlights** (Golden Hour)
+-   **Sombras mais densas** sem perder detalhe do rosto
+-   **Cores quentes douradas / âmbar** (evitar rosa ou magenta)
+-   **Profundidade“cinema”** com separação clara dos planos
+-   **Foco visual no trio principal** (eu > banana artista > quadro)
+-   **Leve vinheta suave e natural**, sem parecer filtro
+-   **Nítidez controlada para thumbnail do YouTube**
+-   Manter **face-clone** e assinatura estética originais
+    
+
+Não alterar:
+-   composição
+-   objetos
+-   proporções
+-   expressão
+-   estilo da banana
+-   pintura do robô
+
+Apenas **melhorar a leitura, a dramaticidade e o apelo visual** para thumbnail.
+
+***
+
+# 🎯 **Por que esse prompt funciona?**
+
+Ele foca em 4 pilares:
+
+1.  **Punch de contraste**  
+    Faz a imagem aparecer até em telas pequenas.
+    
+2.  **Hierarquia visual**  
+    Tua cara → banana → quadro.  
+    Nada disputa com nada.
+    
+3.  **Coerência de paleta**  
+    Mantém o dourado cinematográfico, evitando lavar a imagem.
+    
+4.  **Realismo intacto**  
+    Não deixa virar cartoon ou parecer geração nova.
+    
+
+***
+
+# 💡 Extra (opcional a cada capa)
+
+Se quiser mais _“gritância de thumbnail”_, adicione esta linha:
+
+> “Aumentar levemente o rimlight no rosto e reforçar brilho quente vindo da janela para criar maior recorte cinematográfico.”
+```
 
 #### **Playform **
 
