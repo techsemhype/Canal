@@ -110,7 +110,9 @@ Composição dinâmica, divertida e sofisticada.
 -   Banana apenas levemente antropomórfica
 -   Eu preciso estar claramente reconhecível via face-clone
 ```
-**Tratamento Final com GPT-5.1 e Dalle 3**
+**Tratamento Final com GPT5-5.1 + DALL-E 3**
+Você pode pegar o resultado final de imagem do Nano Banana e anexar no GPT para dar um brilho a mais com esse prompt abaixo.
+
 ```
 # ✅ **Prompt Final de Tratamento (PUNCH de Thumbnail)**
 
