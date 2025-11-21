@@ -50,6 +50,13 @@ INSTRUÇÕES:
 - Não alterar proporções do rosto.
 - As IAs devem ter presença forte, estética premium e distinta.
 ```
+### 🎯 **Resumo do Prompt (fix curto para colar no Nano Banana)**
+```
+- “Use Face Clone. Imagem 16:9 realista e cinematográfica, paleta quente dourada. Eu no centro, MESMO tamanho das três IAs. Elas me cercam em semicírculo, todas com o peito aberto mostrando hardware interno futurista (circuitos, chips, luzes). Ambiente: laboratório quente, luz de pôr-do-sol, partículas douradas.  
+- GPT = branco/prata/azul. Gemini = branco/dourado. Claude = preto/cinza/dourado.  
+- Minha expressão: surpreso. Plano médio. Sem textos. Estilo premium high-tech.”
+```
+
 
 ***
 
