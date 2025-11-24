@@ -204,7 +204,7 @@ Você vira **referência cognitiva**, não “contador de história”.
 
 ***
 
-Se quiser, faço um **mapa visual** comparando:
+**mapa visual** comparando:
 
 -   Jornada do Herói
     
@@ -217,4 +217,13 @@ Se quiser, faço um **mapa visual** comparando:
 -   Consistência + Ângulo
     
 
-…assim você usa como referência pra futuros roteiros.
+# Mapa Visual de Estruturas Narrativas para Conteúdo (TechSemHYPE)
+
+| Estrutura | O que é | Quando usar | Vantagens | Riscos / Cuidados | Exemplo prático (Dani) |
+|----------|---------|-------------|-----------|--------------------|-------------------------|
+| **Jornada do Herói** | Arco clássico de transformação em 12 etapas. | Vídeos mais conceituais ou histórias com mudança real. | Forte, arquetípico, emocional. | Em redes rápidas, pode parecer longo/forçado. | “Como minha relação com IAs mudou meu workflow nos últimos meses.” |
+| **Arco de Tensão** | Narrativa puxada por um risco ou pergunta central. | Reels, shorts e intros de vídeo. | Retenção alta; chama atenção rápido. | Se a tensão não resolve, soa clickbait. | “Troquei Gemini por GPT — e quebrei meu workflow por 24h.” |
+| **Micro-Conflito** | Pequena fricção que ativa curiosidade. | Vídeos curtos ou ganchos iniciais. | Natural, humano, simples. | Conflitos artificiais descredibilizam. | “O cliente me pediu X, mas a IA devolveu Y — precisei improvisar.” |
+| **Linha de Curiosidade** | Pergunta invisível que empurra o viewer até o final. | Roteiros de 3–7 minutos. | Mantém retenção sem drama. | Se a resposta não entrega, frustra. | “Por que Wicked me fez pensar mais em IA do que em bruxas?” |
+| **Consistência + Ângulo** | Identidade narrativa fixa + perspectiva única. | Para construir marca e autoridade. | Defensável, único, escalável. | Leva tempo para fixar no público. | “Tech vivida por um dev maratonista na era das IAs.” |
+
