@@ -18,7 +18,10 @@ Vou adicionar o título e GC depois no YouTube Studio.
 Cores quentes, realismo elegante, vibe épica — a estética TECHsemHYPE.
 
 ___
-# Primeira tentativa (humana e informal)
+# Prompt da Capa - Humano
+
+➡️ **Prompt humano, direto, intuitivo, sem “linguagem de IA”**.  
+➡️ Banana Pro **responde melhor a intenção**, não ao “prompt engenheiro”.
 
 Gemini, preciso de uma capa para o YouTube em cores quentes e realismo. Anexo é o meu rosto. Preciso eu fazendo gesto viva o Rei! 👑🙏 O Rei aqui é a baleia do DeepSeek bem grande ocupando boa parte do 4K na horizontal e na cabeça dela uma coroa 👑.
 
