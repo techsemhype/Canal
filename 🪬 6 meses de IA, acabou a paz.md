@@ -10,6 +10,18 @@ _(versão final, em bloco único, pronta para uso)_
 GPT = branco/prata/azul. Gemini = branco/dourado. Claude = preto/cinza/dourado.  
 Minha expressão: original da foto. Plano médio. Sem textos. Estilo premium high-tech.”
 ```
+## Nova Capa (Pivotagem)
+```
+Cena horizontal 16:9, realismo com cores quentes. Use minha foto como referência para manter o rosto fiel e o topete característico. Meu gesto deve ser natural de “ferrou 🤦‍♂️”, mão na testa, expressão de leve preocupação divertida — nada de deboche.
+
+Estou saindo de casa pronto para trabalhar, usando roupa de executivo e com uma pasta na mão. Plano médio.
+
+No fundo, um grande janelão da sala ocupa quase toda a parte direita da imagem. Pela janela, vemos as três IAs na forma de robôs femininos elegantes (chatGPT, Gemini e Claude), cada uma com estética própria, discutindo entre si de maneira energética, como se estivessem competindo por tarefas ou tentando me chamar ao mesmo tempo. Não é uma briga agressiva, é caos técnico — “excesso de notificações vivas”.
+
+A cena deve transmitir leveza, humor profissional e a sensação de “só saio de casa e já começa a confusão entre as minhas IAs”. Tom divertido, descontraído e hiper-realista, com enquadramento limpo, alta nitidez e composição equilibrada para 4K horizontal.
+
+Manter tudo artístico, respeitoso e alinhado com a narrativa TECHsemHYPE: eu, plano médio saindo; janelão atrás; as três IAs debatendo entre si de forma estilosa e afeminada; clima de caos suave e simpático.
+```
 
 
 ***
