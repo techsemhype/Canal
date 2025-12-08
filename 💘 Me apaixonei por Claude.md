@@ -1,7 +1,7 @@
 
 ***
 
-# 💞 GPT, Gemini e Claude: meu workflow
+# 💘 Me apaixonei por Claude
 
 📅 2025-11-16  
 🎥 **Uso:** gravação + documentação GitHub
@@ -203,6 +203,22 @@ com luz suave e contraste equilibrado.
 
 Sem textos ou GCs — apenas a composição visual.
 ```
+# Nova Capa Pivotagem
+💘 Me apaixonei por Claude
+GC: “É paixão!”
+```
+Cena horizontal 16:9. Realismo com cores quentes (laranja, amarelo, vermelho), luz suave e estética limpa.
+
+Usar a foto de referência para recriar meu rosto exatamente igual: mesma expressão confiante e surpresa leve, mesma iluminação e ângulo. Manter o topete característico.
+
+No centro, Dani oferecendo um coração inflável vermelho para a IA Claude. Claude deve ser representada como uma IA feminina mais humana, elegante e a mais bonita entre as três.
+
+Ao lado esquerdo e direito, colocar as IAs GPT e Gemini também em versões femininas, com design tecnológico, porém com expressões sutis de ciúmes observando a cena.
+
+Ambiente simples de estúdio criativo com luz quente. Alta nitidez, sombras suaves. Deixar espaço livre nas laterais para inserir GC depois. Nenhum texto na imagem.
+```
+
+
 
 ***
 
