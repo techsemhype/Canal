@@ -11,6 +11,8 @@ GPT = branco/prata/azul. Gemini = branco/dourado. Claude = preto/cinza/dourado.
 Minha expressão: original da foto. Plano médio. Sem textos. Estilo premium high-tech.”
 ```
 ## Nova Capa (Pivotagem)
+🪬 6 meses de IA: acabou a paz
+GC: elas mudaram
 ```
 Cena horizontal 16:9, realismo com cores quentes. Use minha foto como referência para manter o rosto fiel e o topete característico. Meu gesto deve ser natural de “ferrou 🤦‍♂️”, mão na testa, expressão de leve preocupação divertida — nada de deboche.
 
