@@ -110,6 +110,25 @@ Composição dinâmica, divertida e sofisticada.
 -   Banana apenas levemente antropomórfica
 -   Eu preciso estar claramente reconhecível via face-clone
 ```
+# Capa Final Nano Banana (Pivotagem):
+
+Título: 👩‍🎨 Google Nano Banana, adeus Photoshop?
+GC: “Superou!”
+
+```
+Cena horizontal 16:9. Realismo com cores quentes (laranja, amarelo, vermelho), luz suave e estética limpa.
+
+Usar a foto de referência para recriar meu rosto exatamente igual: mesma iluminação, mesmo ângulo e mesma expressão de “muque superou” (levemente surpreso e confiante). Manter o topete característico.
+
+À frente, colocar a “Nano Banana” como artista: uma banana antropomorfizada, estilo realista leve, segurando um pincel digital. Ela está pintando um quadro apoiado em um cavalete.
+
+Dentro do quadro, exibir claramente a caixa clássica do Photoshop com o nome “Photoshop” visível. Nenhum outro texto ou palavra na imagem.
+
+Composição equilibrada, com espaço livre nas laterais para inserir GC depois. Alta nitidez, luz quente, sombras leves, ambiente simples de estúdio criativo.
+
+Caixa do Adobe Photoshop 2025: fundo preto com o quadrado azul contendo “Ps” em destaque, logo Adobe vermelha no canto superior, estilo embalagem oficial. Não usar logos do Windows.
+```
+
 ## 🎬 Tratamento Final com GPT-5.1 + DALL·E 3
 
 Após gerar sua capa no Nano Banana, faça um pós-processamento cinematográfico com o GPT-5.1.
