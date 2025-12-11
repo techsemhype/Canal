@@ -1,21 +1,16 @@
 # ⚡️ TECHsemHYPE — IA aplicada, código aberto, sem hype
 
 Repositório oficial do canal **@TECHsemHYPE⚡️**  
-Aqui ficam os scripts, prompts e automações que aparecem nos vídeos.  
-Simples, direto e sem firula: tudo organizado por pastas, sem obrigação de atualizar título por título.
-
-Eu acredito em tecnologia como clareza — não como espetáculo.
-Por isso, este repositório é aberto: para você estudar, adaptar e criar no seu próprio ritmo.
 
 ---
 
 ## ⚙️ ARQUIVOS
 
 Prompts usados nos vídeos (nomes iguais aos títulos dos vídeos):  
-👉 https://github.com/techsemhype/Canal/prompts/
+👉 https://github.com/techsemhype/Canal/tree/main/prompts
 
 Scripts usados nos vídeos:  
-👉 https://github.com/techsemhype/Canal/scripts/
+👉 https://github.com/techsemhype/Canal/tree/main/scripts
 
 > Sem promessa de “manutenção perpétua”.  
 > As pastas são o laboratório. Você navega, encontra, usa e adapta.  
@@ -23,25 +18,26 @@ Scripts usados nos vídeos:
 
 ---
 
-# 🧭 PROPÓSITO
+# 🦅 PROPÓSITO
 
-Este espaço existe por um motivo simples:
-**ajudar você a navegar a internet real com IA aplicada, estratégia e clareza.**
+## 🌐 Pós-Cibercultura: onde estamos agora
 
-Sem hype.  
-Sem fricção.  
-Sem promessas mágicas.  
-Só o que funciona na prática.
+A internet nasceu distribuída, coletiva, hackável — e por um tempo navegamos assim.
+Depois vieram as plataformas, os algoritmos e a sensação de que tudo ficou raso, repetitivo e desigual.
 
-Sou dev há 20 anos, criador de conteúdo e ultramaratonista.  
-Trabalho com IA todos os dias e acredito em três pilares:
+Só que um novo ciclo começou.
 
-1. **Estratégia que corta ruído**  
-2. **Identidade que as pessoas reconhecem**  
-3. **Conteúdo que circula nos fluxos das plataformas**
+A IA trouxe de volta algo que parecia perdido:
+autonomia, profundidade, criatividade técnica, chance real de fazer diferente.
+É a volta da rede como espaço de construção — não só de consumo.
 
-Código aberto é extensão disso:  
-quando compartilhamos ferramentas, todo mundo ganha ritmo, foco e autonomia.
+Aqui no TECHsemHYPE⚡️, eu escolhi esse lado.
+O lado de quem compartilha, cria sistema, abre ferramentas e acredita que conhecimento só vive quando circula.
+
+Não é sobre hype.
+É sobre liberdade.
+
+Por isso tudo aqui é FREE. 🤲🦅
 
 ---
 
