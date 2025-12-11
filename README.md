@@ -22,7 +22,7 @@ Scripts usados nos vídeos:
 
 ## 🌐 Pós-Cibercultura: onde estamos agora
 
-A internet nasceu distribuída, coletiva, hackável — e por um tempo navegamos assim.
+A internet começou como uma rede distribuída, coletiva, hackável — e por um tempo navegamos assim.
 Depois vieram as plataformas, os algoritmos e a sensação de que tudo ficou raso, repetitivo e desigual.
 
 Só que um novo ciclo começou.
