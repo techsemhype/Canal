@@ -18,7 +18,7 @@ Scripts usados nos vídeos:
 
 ---
 
-# 🦅 PROPÓSITO
+# 🎯 PROPÓSITO
 
 ## 🌐 Pós-Cibercultura: onde estamos agora
 
@@ -37,7 +37,7 @@ O lado de quem compartilha, cria sistema, abre ferramentas e acredita que conhec
 Não é sobre hype.
 É sobre liberdade.
 
-Por isso tudo aqui é FREE. 🤲🦅
+Por isso tudo aqui é FREE (LIVRE) 🦅
 
 ---
 
