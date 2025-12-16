@@ -227,3 +227,93 @@ O backlash é real, mas **não é sobre capacidade**. É sobre **confiança e fr
 
 [^42]: https://x.com/altryne/status/1999235391841534009
 
+___
+
+# RETRATO FALADO
+## GEMINI PRO PROMPT E NANO BANANA PRO ARTE
+
+Excelente abordagem. Definir um "estilo mestre" primeiro e depois derivar as cenas é o segredo para manter a coesão visual no Midjourney (ou "Nano Banana Pro"). Se você tentar gerar cada cena do zero, o estilo vai variar muito e quebrar a imersão.
+
+Vamos criar um fluxo de trabalho "sanduíche":
+
+1.  **O Pão (Prompt Mestre):** Define o universo visual (Silo/Fallout/Cyberpunk Realista).
+    
+2.  **O Recheio (Cenas):** Aplica os elementos do seu roteiro dentro desse universo.
+    
+
+***
+
+### Estratégia no "Nano Banana Pro"
+
+**Importante:** Como você mencionou que o processo anterior falhou, o segredo agora é a **iteração**.
+
+1.  Gere a primeira imagem (o "Estilo Mestre"). Se não ficar bom, ajuste _apenas_ ela até acertar o tom.
+    
+2.  Quando acertar o tom, use a imagem gerada como referência visual (image prompt) ou, se o Nano Banana permitir, mantenha a "seed" ou o contexto da conversa para as próximas gerações.
+    
+3.  Nos prompts seguintes, você sempre começará reforçando o estilo antes de descrever a cena.
+    
+
+Abaixo, preparei os prompts. Eles estão em inglês porque as IAs geradoras de imagem funcionam muito melhor assim. O `--ar 9:16` no final garante o formato vertical.
+
+***
+
+### 1. PROMPT MESTRE: Definindo o Universo (O "Abre")
+
+_Objetivo: Criar a estética base. Não se preocupe com a história ainda, foque no clima. Rode esse até achar a estética "Silo/Fallout Realista" perfeita._
+
+**Prompt Inicial (Copie e cole):**
+
+> **A vertical photograph establishing a gritty, retro-futuristic world. The aesthetic is a blend of Fallout and Silo: brutalist concrete architecture, rusted industrial machinery, analog vacuum tube technology mixed with glowing neon cybernetics. The atmosphere is dystopian but functional. Muted earth tones, heavy shadows, film grain, photorealistic cinematic style. --ar 9:16**
+
+_(💡 Dica: Se ficar muito "desenho", adicione "documentary photography style" ou "shot on film" para forçar o realismo)._
+
+***
+
+### 2. PROMPTS DE CENA (Iterativos)
+
+_Agora, vamos pegar o roteiro e traduzir para imagens dentro desse universo que criamos acima. Cole estes prompts NA MESMA CONVERSA ou usando a imagem anterior como referência, se possível._
+
+#### CENA 1: O Gancho (O Sinal Vermelho de Sam vs. O Verde de Bill)
+
+_Contexto do Roteiro: "Sam sinalizou vermelho publicamente, Bill Gates sinalizou o verde"._
+
+> **[Based on the previous retro-futuristic style]. A split composition showing contrast. On the left side, bathed in harsh red warning light, a stressed man in a tech-jacket looks at an old monitor displaying "CODE RED" text. On the right side, bathed in hopeful green light, an older man with glasses (resembling Bill Gates) points towards a holographic projection of a stable, utopian future structure. Gritty realism, analog screens. --ar 9:16**
+
+#### CENA 2: A Visão de Bill (O Médico Virtual dos Pobres)
+
+_Contexto do Roteiro: "IA gratuita, no idioma local, para quem nunca teve acesso a médico."_
+
+> **[Based on the previous retro-futuristic style]. A cluttered, impoverished dwelling with concrete walls and scavenged tech. An elderly person sits before a makeshift, retro-futuristic terminal made of old parts. A glowing blue holographic projection from the terminal shows a compassionate AI doctor's face, providing medical advice. Worn cables, analog dials. Hope amidst scarcity. Photorealistic. --ar 9:16**
+
+#### CENA 3: A Aposta da Disney (O Contraste Corporativo)
+
+_Contexto do Roteiro: "A Disney fez aposta bilionária nessa visão."_
+
+> **[Based on the previous retro-futuristic style]. A massive, industrialized version of the iconic Disney castle silhouette, but built with brutalist concrete and integrated with neon lights and industrial pipes, towering over a dusty, dystopian slum. In the foreground, a holographic contract is being signed by robotic hands, glowing with gold light. Cyberpunk atmosphere. --ar 9:16**
+
+#### CENA 4: A Comunidade Dividida (Velocidade vs. Verborragia)
+
+_Contexto do Roteiro: "senti uma melhora avassaladora na velocidade... tá mais prolixo"_
+
+> **[Based on the previous retro-futuristic style]. A close-up of a user wearing a grimy cybernetic interface suit, looking overwhelmed. One side of their curved, cracked screen shows blindingly fast data streams with motion blur (representing speed). The other side shows incredibly dense, scrolling walls of complex text paragraphs (representing verbosity). Mixed emotions on the user's face. Gritty tech texture. --ar 9:16**
+
+#### CENA 5: Conclusão (A Escolha do Futuro)
+
+_Contexto do Roteiro: "Você está diante do futuro, faça o seu pedido"_
+
+> **[Based on the previous retro-futuristic style]. A lone figure stands on a rusted metal balcony overlooking a sprawling retro-futuristic metropolis at dawn. The horizon is split: one half of the city is dark and smoggy (inequality), the other half is bright with clean energy and networked connections (equality). The figure holds a glowing data lantern, looking at the horizon. Cinematic, detailed. --ar 9:16**
+
+***
+
+### Como proceder se der erro no meio do caminho:
+
+Se você estiver na Cena 3 e o Nano Banana gerar algo nada a ver (ex: um cartoon do Mickey), **não continue**.
+
+1.  Volte para o prompt da Cena 2 (que deu certo).
+    
+2.  Peça para ele gerar uma variação da Cena 2.
+    
+3.  Isso força a IA a "lembrar" do estilo novamente.
+    
+4.  Aí sim, tente o prompt da Cena 3 de novo.
