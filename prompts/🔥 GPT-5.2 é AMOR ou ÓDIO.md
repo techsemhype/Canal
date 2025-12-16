@@ -306,14 +306,40 @@ _Contexto do Roteiro: "Você está diante do futuro, faça o seu pedido"_
 
 ***
 
-### Como proceder se der erro no meio do caminho:
+#### CENA 6: A Chegada do Dragão Salvador (GPT-5.2)
 
-Se você estiver na Cena 3 e o Nano Banana gerar algo nada a ver (ex: um cartoon do Mickey), **não continue**.
+_Contexto: O modelo chegando de forma imponente, uma mistura de máquina e lenda._
 
-1.  Volte para o prompt da Cena 2 (que deu certo).
-    
-2.  Peça para ele gerar uma variação da Cena 2.
-    
-3.  Isso força a IA a "lembrar" do estilo novamente.
-    
-4.  Aí sim, tente o prompt da Cena 3 de novo.
+**Prompt (Copie e cole):**
+
+> **[Based on the previous retro-futuristic style]. A vertical photograph showing a massive, mechanical dragon descending from heavy, smog-filled clouds above the dystopian city. The dragon is constructed from rusted industrial parts, brutalist concrete plating, glowing orange vacuum tubes, and thick hydraulic cables. Its wings are turbine-assisted. On its central armored chest plate, glowing neon text clearly reads "GPT-5.2". Intense shafts of sunlight break through the gloom around it, giving it a powerful, almost divine aura. Gritty cinematic realism, film grain. --ar 9:16**
+
+***
+
+#### CENA 7: A Comunidade Dividida (Protesto vs. Júbilo)
+
+_Contexto: A reação do público no chão ao ver o dragão chegando. O racha na sociedade._
+
+**Prompt (Copie e cole):**
+
+> **[Based on the previous retro-futuristic style]. A vertical photograph of a dense crowd of grimy survivors gathered in a muddy, concrete plaza between towering rusted structures, looking upwards. The crowd reaction is sharply split down the middle. On the left side: angry people protesting, fists raised, holding makeshift signs made of old analog screens displaying anti-AI symbols, faces tense with fear. On the right side: joyful people cheering wildly, reaching hands towards the sky in welcome, holding up glowing scavenged data tablets. Their clothing is patched and cybernetic. Heavy shadows, gritty texture. --ar 9:16**
+
+***
+
+#### CENA 8: O Médico GPT-6 na Rua (Saúde Acessível)
+
+_Contexto: A visão de Bill Gates se concretizando. Robôs funcionais e robustos (não limpinhos) atendendo a população carente na rua._
+
+**Prompt (Copie e cole):**
+
+> **[Based on the previous retro-futuristic style]. A documentary-style street photograph in the impoverished, concrete community. Several rugged, functional humanoid medical robots, built from scavenged metal parts, heavy cables, and glowing blue optical sensors, are actively helping people. On the heavy chest plate of the main robot, white stenciled paint clearly reads "GPT-6". One robot kneels, gently checking the vitals of an elderly woman sitting on a crate using a wired scanner. Another robot offers a glowing medical dispenser to a small child. The people look poor but relieved. Gritty textures. --ar 9:16**
+
+***
+
+#### CENA 9: A Horta Automatizada (Abundância no Caos)
+
+_Contexto: O contraste da tecnologia gerando vida verde no meio do concreto e da ferrugem._
+
+**Prompt (Copie e cole):**
+
+> **[Based on the previous retro-futuristic style]. A striking scene of contrast. A highly productive, lush green vegetable garden thrives exuberantly in the middle of a brutalist concrete ruin littered with rusted girders. Above, several multi-rotor industrial drones with tanks and spray nozzles fly, misting nutrient water onto the plants. On the ground, a tracked mechanical robot with hydraulic claw arms is carefully harvesting oversized vegetables and placing them into a metal crate. The greenery is vibrant against the gray dystopian background. Sunlight beams. --ar 9:16**
