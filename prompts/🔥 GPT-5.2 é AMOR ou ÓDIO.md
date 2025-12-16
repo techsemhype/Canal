@@ -343,3 +343,41 @@ _Contexto: O contraste da tecnologia gerando vida verde no meio do concreto e da
 **Prompt (Copie e cole):**
 
 > **[Based on the previous retro-futuristic style]. A striking scene of contrast. A highly productive, lush green vegetable garden thrives exuberantly in the middle of a brutalist concrete ruin littered with rusted girders. Above, several multi-rotor industrial drones with tanks and spray nozzles fly, misting nutrient water onto the plants. On the ground, a tracked mechanical robot with hydraulic claw arms is carefully harvesting oversized vegetables and placing them into a metal crate. The greenery is vibrant against the gray dystopian background. Sunlight beams. --ar 9:16**
+
+***
+
+#### CENA 10: A Distribuição (O Acesso Gratuito)
+
+_Contexto: Robôs entregando a "ferramenta de ascensão" (o tablet/notebook com o ChatGPT) para as crianças carentes na rua._
+
+**Prompt (Copie e cole):**
+
+> **[Based on the previous retro-futuristic style]. A documentary photograph on a dusty, impoverished street corner. Rugged industrial robots, similar to the previous medical units, are handing out thick, durable, retro-futuristic tablets and laptops to a group of children wearing tattered, patched clothing. The devices look scavenged but functional. On the glowing amber screens and stenciled conspicuously on the outer metal casings, the text clearly reads "chatGPT - FREE ACCESS UNIT". The children’s faces show wonder and disbelief. Gritty texture, warm afternoon light. --ar 9:16**
+
+***
+
+#### CENA 11: A Transformação (Ascensão Social)
+
+_Contexto: O "Depois". O mesmo local e as mesmas crianças, agora prósperas, mostrando o resultado do acesso àquela tecnologia. O ambiente está "limpo" e a tecnologia deles é de ponta dentro daquele universo._
+
+**Prompt (Copie e cole):**
+
+***
+
+#### CENA 12: O Triunfo Corporativo (Bill Gates no Palco)
+
+_Contexto: Bill Gates feliz e orgulhoso no evento, vendendo a visão que agora está se concretizando. O ambiente é "rico", mas ainda dentro da estética industrial/brutalista do nosso universo._
+
+**Prompt (Copie e cole):**
+
+> **[Based on the previous retro-futuristic style]. A vertical photograph of Bill Gates standing behind a heavy, brutalist concrete and metal podium on a large stage. He is wearing a sharp suit, smiling broadly with pride and confidence, gesturing towards huge screens behind him. The massive screens, constructed from arrays of glowing vacuum tubes and industrial neon, prominently display the logos "OpenAI" and below it "chatGPT". The audience in the shadows applauds. Spotlights cut through the slightly hazy, industrial atmosphere. --ar 9:16**
+
+***
+
+#### CENA 13: O Investimento da Disney (Mickey e o Dinheiro)
+
+_Contexto: A representação visual da aposta bilionária da Disney na OpenAI. Para não quebrar o realismo do nosso mundo, faremos um Mickey que pareça "real" dentro dessa estética (não um desenho animado solto)._
+
+**Prompt (Copie e cole):**
+
+> **[Based on the previous retro-futuristic style]. A gritty street photograph outside a colossal, fortress-like corporate skyscraper made of dark concrete and rusted steel. A figure dressed as Mickey Mouse (a realistic, slightly worn interpretation with textured fabric and leather, fitting the dystopian world) walks towards the main entrance. In each gloved hand, he carries a large, overflowing canvas money bag marked with a "$" symbol. Above the massive reinforced doors, a huge, glowing industrial neon sign reads "OpenAI". Steam rises from pavement grates. --ar 9:16**
