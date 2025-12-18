@@ -5,6 +5,24 @@ Prompt o mais humano e natural possível:
 ```
 Olá anexo a minha foto e preservar ao máximo o estilo do topete e remover o chop. Em realismo tipo Game of Thrones, estou no alto do penhasco admirando dois dragões se enfrentando enquanto voam, Céu azul e cores quentes e em 4K. No peito do Dragão predominante escrever GPT-5.2. Dar um ar de rivalidade e conflito. Eu no canto direito e nós três quase que no mesmo plano, para dar um ar de proximidade num plano fechado nós 3 ocupando toda a área horizontal do 4k. Será capa do YouTube.
 ```
+Pivotagem Capa Opus 4.5:
+```
+Gemini, atue como diretor de fotografia e crie thumbnail estilo "Realismo Épico".
+
+Cena The Voice: Sam Altman e Bill Gates sentados em cadeiras vermelhas de jurados.
+Sam com a mão no botão vermelho (tenso).
+Bill com a mão no botão verde (confiante, sorrindo).
+Eu no meio, entre os dois, com expressão de dúvida/conflito 🤷‍♂️, mãos abertas tipo "e agora?".
+
+Iluminação integrada: luz vermelha no lado do Sam, luz verde no lado do Bill, refletindo no meu rosto.
+
+Deixar espaço inferior para GC.
+Não gerar texto.
+Preservar topete.
+Cores quentes, contraste alto.
+```
+***
+
 Perplexity pesquisa de temperatura do GPT5.2 na comunidade:
 Perfeito — aqui vai um **prompt cirúrgico, pronto para copiar e colar no Perplexity**, já calibrado para te devolver **clipagem de temperatura** (não análise acadêmica, não hype).
 
